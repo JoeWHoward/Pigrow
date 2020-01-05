@@ -1,7 +1,15 @@
-s_val=40
-c_val=50
-g_val=30
-b_val=80
-x_dim=1600
-y_dim=1200
-additonal_commands=-d/dev/video0 -w
+saturation=40
+contrast=50
+iso=30
+brightness=80
+resolution_x=1600
+resolution_y=1200
+shutter_speed=0
+zoom_x=0.0
+zoom_y=0.0
+zoom_w=1.0
+zoom_h=1.0
+image_denoise=True
+awb_mode=auto
+
+additonal_commands=
